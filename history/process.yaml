@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-SF01A-2D-PHSENA101-streamed-phsen_data_record
 data_stream: RS01SBPS-SF01A-2D-PHSENA101-streamed-phsen_data_record
-end_date: '2021-04-29T23:23:26.103Z'
-last_updated: '2021-05-01T13:45:46.024989'
+end_date: '2021-07-06T23:23:01.788Z'
+last_updated: '2021-07-19T20:12:26.169398Z'
 start_date: '2014-10-07T21:00:00.301Z'
-status: success
+status: pending
