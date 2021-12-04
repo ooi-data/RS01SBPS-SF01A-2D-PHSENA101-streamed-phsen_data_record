@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SBPS-SF01A-2D-PHSENA101-streamed-phsen_data_record
-last_request: '2021-12-01T22:02:11.244363Z'
+last_request: '2021-12-04T00:44:39.085323Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-SF01A-2D-PHSENA101-streamed-phsen_data_record/main/history/response.json
-status: success
+status: pending
